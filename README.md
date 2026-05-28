@@ -6,9 +6,8 @@
       <img src="https://komarev.com/ghpvc/?username=Huy-VanKien&label=Profile%20views&color=0e75b6&style=flat" />
     </td>
     <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=Văn Kiến Huy" />
+      <img src="https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=V%C4%83n+Ki%E1%BA%BFn+Huy" />
     </td>
-    <!-- Gom 2 ảnh vào 1 ô và ép không xuống hàng -->
     <td align="right" style="white-space: nowrap;">
       <a href="https://github.com/Huy-VanKien/ResourceForRepo/blob/main/img_repo_extension_Startpage/qr_donation/momo_qr_Thien.jpg?raw=true">
         <img src="https://github.com/Huy-VanKien/ResourceForRepo/blob/main/img_readme_home/momo_readme_2.png?raw=true" width="100px" />
@@ -114,3 +113,5 @@
 
 
 <!-- <img src="https://github.com/Huy-VanKien/Huy-VanKien/blob/main/github-header-banner.png" height="320" width="1000" border-radius="5px"> -->
+
+
