@@ -34,8 +34,8 @@
 
 <td>
 
-- 👀 Coding mode: **Chạy rồi xin đừng chỉnh**
-- ⚡ Fun fact: **Chỉ tôi và Phật mới biết tôi đang code cái**
+- 👀 Coding mode: _**"Chạy rồi xin đừng chỉnh**"_
+- ⚡ Fun fact: _**"Chỉ tôi và Phật mới biết tôi đang code cái gì"**_
 
 </td>
 
@@ -83,12 +83,6 @@
     </td>
   </tr>
   <tr>
-    <th align="left">IDE</th>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime&theme=dark" />
-    </td>
-  </tr>
-  <tr>
     <th align="left">Adobe</th>
     <td align="left">
       <img src="https://skillicons.dev/icons?i=ps,pr,ai&theme=dark" />
@@ -97,7 +91,7 @@
   <tr>
     <th align="left">Others</th>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=github,discord&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=github,discord,instagram,gmail,vscode,visualstudio,sublime&theme=dark" />
     </td>
   </tr>
 </table>
